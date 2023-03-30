@@ -14,5 +14,5 @@ We've tested the influences of different loss by keeping only the corresponding 
 Usage: 
 
 ```
-#python3 styleTransfer.py {PATH_TO_CONTENT} {PATH_TO_STYLE} {CONTENT_WEIGHT} {MAX_SCALES} {OUTPUT_PATH}
+python3 styleTransfer.py {PATH_TO_CONTENT} {PATH_TO_STYLE} {CONTENT_WEIGHT} {MAX_SCALES} {OUTPUT_PATH}
 ```
